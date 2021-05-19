@@ -1,0 +1,2 @@
+# magazines
+magazines for naccw
